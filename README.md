@@ -1,4 +1,4 @@
-#Web technológiák 2 - Beadandó Barta Balázs - S90NXK
+Web technológiák 2 - Beadandó Barta Balázs - S90NXK
 
 Egy CRUD alkalmazást készítettem a Web technológiák 2 féléves feladataként, amely lehetővé teszi autók adatainak felvételét és szerkesztését egy adatbázisban.
 
